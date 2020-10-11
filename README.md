@@ -1,5 +1,5 @@
 ### Hi there 👋👋👋
-**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/uzairleo) represent my journey :running_man: - This is *uzairleo*, I am a flutter Cross platform developer and also a UI/UX & graphics Designer with some (SEO & SEM skills),a Great Tech Enthusiast and also interested in all the cutting-edge modern technologies. 
+**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/uzairleo) represent my journey :running_man: - This is *uzairleo*, I am a flutter Cross platform developer, UI/UX & graphics Designer with some (SEO & SEM skills),a Great Tech Enthusiast and also interested in all the cutting-edge modern technologies. 
 
  I have over 2 year experience as a flutter & Android Developer.
 
