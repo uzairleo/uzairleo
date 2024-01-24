@@ -8,7 +8,8 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=uzairleo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
 [YOUR github stats](https://github-readme-stats.vercel.app/api?username=uzairleo)
 
-Here is my  [<img src = "https://img.shields.io/badge/Resume-%231877F2.svg?&style=for-the-badge&logo=Resume&logoColor=white">](https://uzairleo.github.io/uzairleo-resume/#/),
+Here is my  [<img src = "https://img.shields.io/badge/Resume-%231877F2.svg?&style=for-the-badge&logo=Resume&logoColor=white">](https://docs.google.com/document/d/1re3qMrhQX6Q3WVDbCwuGsJ8USjFX4wfeJsPK2DeGj_E/edit?usp=sharing),
+ [PORTFOLIO](https://uzairleo.github.io/uzairleo-resume/#/),
 
 
 
