@@ -8,13 +8,13 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=uzairleo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
 [YOUR github stats](https://github-readme-stats.vercel.app/api?username=uzairleo)
 
-Here is my  [<img src = "https://img.shields.io/badge/Resume-%231877F2.svg?&style=for-the-badge&logo=Resume&logoColor=white">](https://docs.google.com/document/d/1re3qMrhQX6Q3WVDbCwuGsJ8USjFX4wfeJsPK2DeGj_E/edit?usp=sharing),
- [PORTFOLIO](https://uzairleo.github.io/uzairleo-resume/#/),
+Here is my  [<img src = "https://img.shields.io/badge/Resume-%231877F2.svg?&style=for-the-badge&logo=Resume&logoColor=white">](https://uzairleo.tech)
+ 
 
 
 
 
- You can also **find me. Currently I'm **free to contribute** from pakistan 💚
+ Currently, I'm **free to contribute** 
 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@uzair.jan336)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://pk.linkedin.com/in/uzairleo336?trk=public_profile_browsemap) 
 
