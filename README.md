@@ -60,12 +60,12 @@
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairleo&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairleo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
-</p>
+</p>-->
 
 ### ✍️ Architecture Philosophy
 > **"Simplicity is the prerequisite for reliability."** > \- *Edsger W. Dijkstra*
