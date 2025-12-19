@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  👀 <b>Currently Architecting:</b> A 50-Agent Autonomous Trading System for a Private Equity Firm.
+  👀 <b>Currently Architecting:</b>Different Autonomous System for multiple Private Equity Firms.
 </p>
 
 <div align="center">
